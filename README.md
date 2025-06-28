@@ -8,8 +8,8 @@ Its features are :
 - Razer Pages UI.
 - Error handling and input validation.
 - Clean architecture.
-
-##Technololgies Used:
+- 
+## Technololgies Used:
 - ASP.NET Core
 - SQL Server
 - Entity Framework Core
