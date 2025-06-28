@@ -27,7 +27,7 @@ Stored Procedures:
 
 1. Presentation Layer (MVC):
 - Controllers handle HTTP requests and coordinate with the repository.
-- Views (Razor) display the UI for login, registration, and employee management.
+- Views (Razor pages) display the UI for login, registration, and employee management.
 
 2. Business Layer (Repository Pattern):
 - Interfaces (`IEmployeeRepository`, `IAuthRepository`) define contracts for operations.
