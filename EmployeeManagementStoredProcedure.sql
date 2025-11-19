@@ -4,7 +4,7 @@ CREATE PROCEDURE spUserLogin
     @Email NVARCHAR(110)
 AS
 BEGIN
-  SELECT  UserId,UserName,Email,PasswordHash,CreatedAt FROM UsersDb 
+  SELECT  UserId,UserName,Email,PasswordHash,Role,CreatedAt FROM UsersDb 
   WHERE Email=@Email
 END
 
