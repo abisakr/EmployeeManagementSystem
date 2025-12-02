@@ -45,3 +45,6 @@ Stored Procedures:
 3. Open the solution file `EmployeeManagementSystem.sln` in Visual Studio.
 4. Update the connection string in `appsettings.json`.
 5. Build and run the project.
+
+  ## Live Link:
+   # https://employeemanagement-c5bhaebub0azhvd5.westeurope-01.azurewebsites.net
